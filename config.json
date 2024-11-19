@@ -10,4 +10,9 @@
     "fr":{
         "greenting": "bonjuor, mundo!",
         "farewell": "aduios"
-}
+},
+    "al":{
+        "greeting": "Guten Morgen, welt!",
+        "farewell": "Verabschiedung"
+
+    }
