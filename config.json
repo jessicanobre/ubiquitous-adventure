@@ -6,5 +6,8 @@
     "pt":{
         "greeting": "Olá, mundo!",
         "farewell": "Adeus!"
-    }
+    },
+    "fr":{
+        "greenting": "bonjuor, mundo!",
+        "farewell": "aduios"
 }
